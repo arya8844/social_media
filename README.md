@@ -42,5 +42,8 @@ samples, guidance on mobile development, and a full API reference.
 desc
 ![image](https://github.com/user-attachments/assets/f849d06d-7b73-4e48-90bd-4ffd7522200b)
 
+# RegisterPage
+ desc
+ ![image](https://github.com/user-attachments/assets/494781fa-a8d8-4085-8a8e-b32eb6d22832)
 
 
