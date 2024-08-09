@@ -49,4 +49,14 @@ desc
 # HomePage
  desc
  ![image](https://github.com/user-attachments/assets/d7bdedd1-7bc7-414f-b334-54f61873477d)
+ ![image](https://github.com/user-attachments/assets/be836df6-7bc3-406f-aa55-b9a156aff9df)
+
+ # ProfilePage
+  desc
+  ![image](https://github.com/user-attachments/assets/b2f4ec74-ad60-4a6d-bb95-00155eb002ec)
+
+  # UsersPage
+   desc
+   ![image](https://github.com/user-attachments/assets/3dc34cfc-9cff-4c24-b58c-4c6fc9f38c41)
+
 
