@@ -1,6 +1,29 @@
 # mini_socialmedia_app
 
-A new Flutter project.
+This repository contains the code for a minimal social media app built
+using Flutter and Firebase. The app allows users to authenticate using
+Firebase Authentication and post messages to a Firestore database. This
+project serves as a simple example of integrating Firebase with a Flutter
+application.
+
+##Features
+  -User authentication(sign up,log in)
+  -Post messages to a feed
+  -View a list of posted messages
+
+##Tech Stack
+  -Frontend:Flutter
+  -Backend:Firebase
+    -Authentication:Firebase Authentication
+    -Database:Cloud Firestore
+
+##Installation
+  ##Prerequisites
+    -Flutter
+    -Firebase account
+    -Android or Visual Studio Code
+
+    
 
 ## Getting Started
 
@@ -14,3 +37,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/user-attachments/assets/5584455f-2333-4c49-825b-1fe66c71b275)
+
