@@ -6,19 +6,19 @@ Firebase Authentication and post messages to a Firestore database. This
 project serves as a simple example of integrating Firebase with a Flutter
 application.
 
-##Features
+## Features
   -User authentication(sign up,log in)
   -Post messages to a feed
   -View a list of posted messages
 
-##Tech Stack
+## Tech Stack
   -Frontend:Flutter
   -Backend:Firebase
     -Authentication:Firebase Authentication
     -Database:Cloud Firestore
 
-##Installation
-  ##Prerequisites
+## Installation
+  ## Prerequisites
     -Flutter
     -Firebase account
     -Android or Visual Studio Code
